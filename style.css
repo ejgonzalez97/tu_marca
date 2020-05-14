@@ -1,0 +1,20 @@
+
+h1{
+    text-align: center;
+    background: #001746;
+    color: white;
+    border-radius: 7px;
+}
+
+#contenedor{
+
+    width: 70%;
+    float: right;
+}
+#contenedor_imagen{
+    width: 30%;
+    float: left;
+}
+#contenedor_imagen img{
+    width: 90%;
+}
