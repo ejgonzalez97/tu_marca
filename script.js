@@ -73,17 +73,19 @@ function generarResultado(){
 
         });
 
+
+        
         if(pregunta1=="1"){
                 
             if(contador1>=2){
                 
-                swal("BUFÓN!", "BUFÓN", "success");
+                swal("BUFÓN!", "El bufón: Marcas frescas, divertidas y cómicas: OREO, Fanta.", "success");
 
             }else if(contador2>=2){
-                swal("AMANTE!", "AMANTE", "success");
+                swal("AMANTE!", "El amante: Son marcas pasionales, seductoras y que buscan complacer a sus público estableciendo relaciones emocionales fuertes: Martini, Victoria´s Secret.", "success");
 
             }else if(contador3>=2){
-                swal("AMIGO!", "AMIGO", "success");
+                swal("AMIGO!", "El hombre corriente: Apuestan por la modestia, la humildad y un posicionamiento de conexión a través de la empatía: Ebay, IKEA.", "success");
 
             }else{
 
@@ -94,13 +96,13 @@ function generarResultado(){
 
             if(contador1>=2){
                 
-                swal("INOCENTE!", "INOCENTE", "success");
+                swal("INOCENTE!", "El inocente: Estas marcas transmiten simplicidad, optimismo y felicidad: Mcdonalds, Disney.", "success");
 
             }else if(contador2>=2){
-                swal("EXPLORADOR!", "EXPLORADOR", "success");
+                swal("EXPLORADOR!", "El explorador: Marcas auténticas, descaradas e independientes: Red Bull, Jeep.", "success");
 
             }else if(contador3>=2){
-                swal("SABIO!", "SABIO", "success");
+                swal("SABIO!", "El sabio: Apuestan por el conocimiento, el análisis y el crecimiento como pilares en su posicionamiento: Google, HP.", "success");
 
             }else{
 
@@ -114,13 +116,13 @@ function generarResultado(){
             
             if(contador1>=2){
                 
-                swal("HÉROE!", "HÉROE", "success");
+                swal("HÉROE!", "El héroe: Marcas valientes, decididas en sus propuestas y que pretenden hacer del mundo un mejor lugar: Amazon, Nike.", "success");
 
             }else if(contador2>=2){
-                swal("MAGO!", "MAGO", "success");
+                swal("MAGO!", "El mago: Marcas imaginativas, carismáticas, seguras y rompedoras: Intel, Absolut.", "success");
 
             }else if(contador3>=2){
-                swal("REBELDE!", "REBELDE", "success");
+                swal("REBELDE!", "El forajido: Marcas que cuestionan el mundo, y muestran una actitud de cambio y desafío hacia el status-quo: Diesel, Desigual.", "success");
 
             }else{
 
@@ -133,13 +135,13 @@ function generarResultado(){
 
             if(contador1>=2){
                 
-                swal("CUIDADOR!", "CUIDADOR", "success");
+                swal("CUIDADOR!", "El cuidador: Son marcas seguras de sí mismas, que transmiten confianza y bienestar a sus públicos: Danone, Nestlé.", "success");
 
             }else if(contador2>=2){
-                swal("CREADOR!", "CREADOR", "success");
+                swal("CREADOR!", "El creador: Son líderes en innovación, diseño e investigación, siempre un paso por delante en su categoría: Apple, LEGO.", "success");
 
             }else if(contador3>=2){
-                swal("GOBERNANTE!", "GOBERNANTE", "success");
+                swal("GOBERNANTE!", "El gobernante: Son marcas que anhelan el liderazgo en sus mercados, y muestran un carácter de superioridad respecto a su competencia: Mercedez, Rolex.", "success");
 
             }else{
 
